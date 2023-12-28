@@ -23,4 +23,4 @@ This project only explores the open tweets and data retrieved from Twitter API f
 ---
 ### Dash Demo
 
-Please check out this [link](https://c4fetbip-d76627d583e0.herokuapp.com/) for a final demo.
+Please check out this [link](https://c4fetbip-d76627d583e0.herokuapp.com/) for a final demo. Also check out [dev](https://github.com/shiyis/c4fe-tbip/tree/dev) branch for src code. 
