@@ -1,4 +1,4 @@
-## 2022 Presidential Election Candidates' Twitter Archive Exploratory Data Analysis and Text-based Ideal Points Topic Extraction
+## 2022 Federal Election Candidates' Twitter Archive Exploratory Data Analysis and Text-based Ideal Points Topic Extraction
 This repo contains all the code for a quantitatively oriented social science exploratory data analysis (EDA) independent research project
 
 ---
