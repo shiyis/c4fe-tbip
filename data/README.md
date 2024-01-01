@@ -1,4 +1,4 @@
-# 2022 Election Candidates Twitter Exploratory Data Analysis
+# 2022 Federal Election Candidates Twitter Exploratory Data Analysis
 
 This repo hosts the code that retrived tweets from 2022 presidential election candidates' Twitter archive.
 
