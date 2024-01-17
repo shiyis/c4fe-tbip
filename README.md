@@ -14,7 +14,7 @@ Simple EDA analysis will also be carried out in supporting the final analysis.
 
 ---
 ### Literature and references
-Please also check out the [research](https://raw.githubusercontent.com/shiyis/c4pe2022-tweets/main/references.bib) pertaining to this project.
+Please also check out the [research]([https://raw.githubusercontent.com/shiyis/c4pe2022-tweets/main/references.bib](https://raw.githubusercontent.com/shiyis/c4fe-tbip/master/references.bib) pertaining to this project.
 
 ---
 ### Data Privacy and Ethics Disclaimer
