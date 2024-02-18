@@ -13,7 +13,7 @@ This project will largely follow [this paper](https://github.com/keyonvafa/tbip)
 Simple EDA analysis will also be carried out in supporting the final analysis.
 
 ---
-### Literature and references
+### Literature and References
 Please also check out the [research](https://raw.githubusercontent.com/shiyis/c4fe-tbip/master/references.bib) pertaining to this project.
 
 ---
