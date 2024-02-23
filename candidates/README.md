@@ -24,7 +24,7 @@ Please also check out the [research](https://raw.githubusercontent.com/shiyis/c4
 
 
 ---
-#### Data privacy and ethics disclaimer 
+#### Data Privacy and Ethics Disclaimer 
 
 This project only explores the open tweets and data retrieved from Twitter API for personal non-commercial use only. For a full collection of tweets, please email me at shiyis3447@gmail.com
 
